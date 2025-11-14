@@ -1,3 +1,8 @@
+
+# Watch the video of me installing Active Directory HERE:
+
+https://www.loom.com/share/9cf29b0aeb884cfd81a3195d343e0d05
+
 # Installing Active Directory on a Windows Server Virtual Machine
 
 This guide walks through installing **Active Directory Domain Services (AD DS)** on a Windows Server virtual machine and promoting the server to a Domain Controller.
@@ -70,3 +75,4 @@ This confirms that **Active Directory is successfully installed and configured**
 
 ## Finished!
 You now have a functional **Active Directory Domain Controller** running under the domain **testing.local**.
+
